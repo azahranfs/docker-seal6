@@ -1,1 +1,0 @@
-# docker-seal6
